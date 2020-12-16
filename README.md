@@ -9,14 +9,16 @@
 ## Peces i tauler
 > Cada jugador disposa inicialment de setze peces: **vuit peons, dos cavalls, dos alfils, dues torres (o rocs), un rei i una dama o reina**. Cada tipus de peça té un moviment únic i característic. En el món dels escacs, hom coneix com a peces majors la reina i les torres, i com a peces menors els alfils i els cavalls. 
 
->| -----------*   |      Peces      |* ----------- |
+
+| -----------*   |      Peces      |* ----------- |
 |----------|:-------------:|------:|
-| ♔| Rei | ♚|
+|    ♔     | Rei | ♚|
 |♕ |   Reina   |   ♛ |
 |♖ | Torre |    ♜ |
 |♗ | Alfil |    ♝ |
 |♘ | Cavall |    ♞ |
 |♙ | Peó  |♟ |
+
 <br>
 
 ![inici](https://user-images.githubusercontent.com/75562243/102388362-efdec180-3fd1-11eb-9914-a9bafa9d07d7.png)<br><br>
@@ -25,32 +27,34 @@
 
 >Els elements bàsics del tauler són: 
 <ul>
-    <li>Fila. És cadascuna de les vuit línies de vuit caselles que es formen alineant aquestes horitzontalment respecte dels jugadors. Es numeren de l'1 al 8, començant des de la primera fila pel que fa al bàndol de les peces blanques.</li><br>
+    <li>Fila. És cadascuna de les vuit línies de vuit caselles que es formen alineant aquestes horitzontalment respecte dels jugadors. Es numeren de l'1 al 8, començant des de la primera fila pel que fa al bàndol de les peces blanques.</li><br><br>
   
 ![fila](https://user-images.githubusercontent.com/75562243/102393906-469bc980-3fd9-11eb-9eb2-f07b7464886a.png)<br><br>
 
 </ul>
 <ul>
-    <li>Columna. És cadascuna de les vuit línies de vuit caselles que es formen alineant aquestes verticalment respecte dels jugadors. S'anomenen amb lletres         minúscules de la (a) a la (h), començant des de la primera columna esquerra pel que fa al bàndol de les peces blanques.</li><br>
+    <li>Columna. És cadascuna de les vuit línies de vuit caselles que es formen alineant aquestes verticalment respecte dels jugadors. S'anomenen amb lletres         minúscules de la (a) a la (h), començant des de la primera columna esquerra pel que fa al bàndol de les peces blanques.</li><br><br>
 
 
 ![columna](https://user-images.githubusercontent.com/75562243/102394307-d80b3b80-3fd9-11eb-8c17-c794cf1d2278.png) <br><br>
+
 </ul>
 <ul>
-    <li>Diagonal. És cadascuna de les 16 línies que es formen agrupant les caselles diagonalment. Les dues grans diagonals tenen vuit caselles.</li>
+    <li>Diagonal. És cadascuna de les 16 línies que es formen agrupant les caselles diagonalment. Les dues grans diagonals tenen vuit caselles.</li><br><br>
     
 ![diagonal](https://user-images.githubusercontent.com/75562243/102394440-0d178e00-3fda-11eb-9695-452b01599bd1.png) <br><br>
 </ul>
 <ul>
-    > <li>Centre. El centre del tauler són les quatre caselles centrals.</li>
+     <li>Centre. El centre del tauler són les quatre caselles centrals.</li><br><br>
 
 ![centre](https://user-images.githubusercontent.com/75562243/102394551-30dad400-3fda-11eb-928d-edd4f86b8837.png) <br><br>
+
 </ul>
 <ul>
-    <li>Cantonades. Cadascuna de les quatre caselles situades a les cantonades del tauler.</li>
+    <li>Cantonades. Cadascuna de les quatre caselles situades a les cantonades del tauler.</li><br><br>
 </ul>
 <ul>
-    <li>Vores. Les dues columnes (a i h) i dues files (1 i 8) situades als extrems del tauler.</li> 
+    <li>Vores. Les dues columnes (a i h) i dues files (1 i 8) situades als extrems del tauler.</li> <br><br>
 </ul>
 
 
