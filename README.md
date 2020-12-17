@@ -10,7 +10,7 @@
 > Cada jugador disposa inicialment de setze peces: **vuit peons, dos cavalls, dos alfils, dues torres (o rocs), un rei i una dama o reina**. Cada tipus de peça té un moviment únic i característic. En el món dels escacs, hom coneix com a peces majors la reina i les torres, i com a peces menors els alfils i els cavalls. 
 
 
-| -----------*   |      Peces      |* ----------- |
+| -----------   |      Peces      |   ----------- |
 |----------|:-------------:|------:|
 |    ♔     | Rei | ♚|
 |♕ |   Reina   |   ♛ |
@@ -65,31 +65,31 @@
 
 > Durant una partida d'escacs, cada escaquista controla setze peces que poden ser de color clar o obscur (normalment blanques i negres). Les blanques han de fer sempre el primer moviment.
 <ul>
-<li>Peó: El peó és la peça amb menys valor  del tauler (tècnicament). Només es pot moure endavant una casella i només pot capturar en diagonal una casella. Si es el primer cop que es mou el peó es pot moure dos caselles endavant i si tens sort i aquest peó arriba a la ultima casella de la columna, el podràs transformar en qualsevol peça que vulguis, el que se li diu coronar.</li>  
+<li>Peó: El peó és la peça amb menys valor  del tauler (tècnicament). Només es pot moure endavant una casella i només pot capturar en diagonal una casella. Si es el primer cop que es mou el peó es pot moure dos caselles endavant i si tens sort i aquest peó arriba a la ultima casella de la columna, el podràs transformar en qualsevol peça que vulguis, el que se li diu coronar.</li>  <br><br>
 
 ![peó](https://user-images.githubusercontent.com/75562243/102401822-2de4e100-3fe4-11eb-8f1d-51a796773f88.gif)  <br><br>
   
-<li>Cavall: El cavall és l'única peça del tauler que pot saltar sobre altres peces. El cavall es mou dues caselles en direcció horitzontal o vertical i després una casella més en angle recte. El moviment de l'cavall té la forma d'una "L".</li>    
+<li>Cavall: El cavall és l'única peça del tauler que pot saltar sobre altres peces. El cavall es mou dues caselles en direcció horitzontal o vertical i després una casella més en angle recte. El moviment de l'cavall té la forma d'una "L".</li> <br><br>   
 
  ![cavall](https://user-images.githubusercontent.com/75562243/102401980-671d5100-3fe4-11eb-954e-0e02b0bfe732.gif) <br><br>
  
-<li>Alfil: Es mou en diagonal, no pot saltar peces intervinents.</li>    
+<li>Alfil: Es mou en diagonal, no pot saltar peces intervinents.</li>    <br><br>
 
  ![alfil](https://user-images.githubusercontent.com/75562243/102402088-903de180-3fe4-11eb-8ed5-350660200c89.gif) <br><br>
  
-<li>Torre: La torre es mou en una línia recta horitzontal o vertical al llarg de qualsevol nombre de caselles desocupades.</li>    
+<li>Torre: La torre es mou en una línia recta horitzontal o vertical al llarg de qualsevol nombre de caselles desocupades.</li>    <br><br>
 
  ![torre](https://user-images.githubusercontent.com/75562243/102402098-9469ff00-3fe4-11eb-8a71-8f1764b6703f.gif) <br><br>
  
-<li>Reina: Es pot moure qualsevol nombre de caselles en línia recta, tant de manera horitzontal com vertical o diagonal. La reina es mou com la torre i l'alfil junts.</li>    
+<li>Reina: Es pot moure qualsevol nombre de caselles en línia recta, tant de manera horitzontal com vertical o diagonal. La reina es mou com la torre i l'alfil junts.</li>    <br><br>
 
  ![reina](https://user-images.githubusercontent.com/75562243/102402123-9cc23a00-3fe4-11eb-9eb4-66de5ec92c67.gif) <br><br>
  
-<li>Rei: El rei és la peça més important dels escacs, la seva captura és l'únic objectiu del joc. El seu moviment consisteix en el desplaçament d'una casella o escac en horitzontal, vertical o diagonal. </li>    
+<li>Rei: El rei és la peça més important dels escacs, la seva captura és l'únic objectiu del joc. El seu moviment consisteix en el desplaçament d'una casella o escac en horitzontal, vertical o diagonal. </li>    <br><br>
 
  ![rei](https://user-images.githubusercontent.com/75562243/102402139-a055c100-3fe4-11eb-8ccf-3960b98e464f.gif) <br><br>
  
-<li>Enroc: En cas que el jugador no hagi mogut el rei durant el joc, se li permet realitzar un moviment especial anomenat enroc amb una de les torres, complint alguns requisits. Aquest moviment normalment s'utilitza per posicionar el rei en una posició segura</li>  
+<li>Enroc: En cas que el jugador no hagi mogut el rei durant el joc, se li permet realitzar un moviment especial anomenat enroc amb una de les torres, complint alguns requisits. Aquest moviment normalment s'utilitza per posicionar el rei en una posició segura</li>  <br><br>
 
 ![enroc](https://user-images.githubusercontent.com/75562243/102405224-1b20db00-3fe9-11eb-97a5-f90c6b9a5989.gif)
 
