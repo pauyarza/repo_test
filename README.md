@@ -51,7 +51,7 @@
 
 </ul>
 <ul>
-    <li>Cantonades. Cadascuna de les quatre caselles situades a les cantonades del tauler.</li><br><br>
+    <li>Cantonades. Cadascuna de les quatre caselles situades a les cantonades del tauler.</li><br>
 </ul>
 <ul>
     <li>Vores. Les dues columnes (a i h) i dues files (1 i 8) situades als extrems del tauler.</li> <br><br>
